@@ -56,12 +56,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-note: 
-* enterau eurek zer egiten daben
-* Interesa erakutsi euren proiektuetan
-* EAL-n (Europako Atlas Linguistikoa)
-* Interesa erakutsi euren lanian
-
 
 # DiaTech <small>A web tool for analyzing and visualysing linguistic variation:<br> http://eudia.ehu.eus/diatech/</small>
 
@@ -79,10 +73,6 @@ note:
 >- Parlate frontiera o ponte. 
 >- Nuovo analisi
 >- Sottoinsieme
-
-note:
-
-atrezzo
 
 # Scuola di Salzburgo {data-background=#d87f3b}
 
@@ -138,15 +128,13 @@ Agrupazione...
 
 # MDS {data-background=#af6530}
 
-Note: Akaso hau gora eruan eta clusterrak behean.
-
 ## La distanzia linguistica insegue a Pitagora
 
 ### Ma non si apoggia nella nostra perspettiva <br> dimenzionalle dalla realtà
 
 ## Riduzione delle dimensionalta
 
-# Parlate-frontiera / parlate-ponte {data-background=#7c4722}
+# Parlate-frontiera <br> parlate-ponte {data-background=#7c4722}
 
 # Sottoinsieme {data-background=#6f3e1d}
 
