@@ -124,6 +124,12 @@ Agrupazione...
 
 ## Determinista <br><small>(clustering esclusivo)</small>
 
+![](images/2019-06-24_202228.png)
+
+## ![](images/image_resized.png)
+
+## ![](images/image(1).png)
+
 ## Fuzzy  <br><small>(clustering non-esclusivo)</small>
 
 # MDS {data-background=#af6530}
@@ -134,9 +140,19 @@ Agrupazione...
 
 ## Riduzione delle dimensionalta
 
+![](images/2019-06-24_202545.png)
+
+## ![](images/image(2).png)
+
+## ![](images/image(3).png)
+
 # Parlate-frontiera <br> parlate-ponte {data-background=#7c4722}
 
+## 
+
 # Sottoinsieme {data-background=#6f3e1d}
+
+## 
 
 # Un altra prospettiva della distanza linguistica {data-background=#593218}
 
