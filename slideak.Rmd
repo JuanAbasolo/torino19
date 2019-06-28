@@ -160,7 +160,7 @@ Agrupazione...
 
 # Nuovi prospettiva {data-background=#381f0f}
 
-## Modellizzazione matematiche delle variazione
+## Modellizzazione matematiche delle variazioni
 
 ## Analisi delle Corrispondenze Multiple (MCA) 
 
